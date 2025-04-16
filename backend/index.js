@@ -1,31 +1,28 @@
+const exp = require("constants");
 const express=require("express");
 const mongoose=require("mongoose");
-const hotels=require("./Routes/hotelRoute");
 const app=express();
+const cors=require("cors");
 const port=5000;
-
+const hotels=require("./Routes/hotelRoute");
 app.use(express.json());
-app.get("/",(req,res)=>{
-    res.send("Welcome to home");
-})
-async function main() {
-    try{
-        await mongoose.connect("mongodb://localhost:27017/travels")
-    console.log("database connected");
-    }
-    catch(err){
-      console.log("error")
-    }
-    
-}
+app.use(cors());
+//middleware
 app.use((req,res,next)=>{
-    console.log("time",Date.now());
+    console.log("Time",Date.now());
     next();
 })
-main().catch((err)=>console.log(err));
-//hotel route
-app.use("/api",hotels);
+app.get("/",(req,res)=>{
+    res.status(200).send("hello");
+})
+async function main() {
+    await mongoose.connect("mongodb://localhost:27017/travels");
+    console.log("database connected");
+    
+}
 
+main().catch((err)=>console.log(err));
+app.use("/api",hotels);
 app.listen(port,()=>{
-    console.log(`Port is ${port}`);
+    console.log(`running at port ${port}`);
 })
