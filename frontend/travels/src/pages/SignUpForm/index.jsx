@@ -9,7 +9,7 @@ const SignUpForm = () => {
     name: "",
     email: "",
     password: "",
-    confirmpassword: ""
+    confirmpassword: "",
   });
   const navigate = useNavigate();
 
@@ -22,8 +22,8 @@ const SignUpForm = () => {
 
     if (res?.token) {
       localStorage.setItem("token", res.token);
-      alert("Sign up successful!");
-      navigate("/"); // or your desired route
+      localStorage.setItem("user", JSON.stringify(res.user)); // Save user data
+      navigate("/");
     } else {
       alert("Sign up failed.");
       console.error(res);
@@ -42,10 +42,15 @@ const SignUpForm = () => {
         <div className="absolute inset-0 bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 animate-gradient-x -z-10"></div>
 
         <div className="bg-white rounded-lg shadow-lg p-8 max-w-md w-full z-10">
-          <h2 className="text-3xl font-bold mb-6 text-center text-gray-800">Create an Account</h2>
-          
+          <h2 className="text-3xl font-bold mb-6 text-center text-gray-800">
+            Create an Account
+          </h2>
+
           {/* Name Input */}
-          <label htmlFor="name" className="block text-gray-700 font-semibold mb-1">
+          <label
+            htmlFor="name"
+            className="block text-gray-700 font-semibold mb-1"
+          >
             Name
           </label>
           <input
@@ -58,7 +63,10 @@ const SignUpForm = () => {
           />
 
           {/* Email Input */}
-          <label htmlFor="email" className="block text-gray-700 font-semibold mb-1">
+          <label
+            htmlFor="email"
+            className="block text-gray-700 font-semibold mb-1"
+          >
             Email
           </label>
           <input
@@ -72,7 +80,10 @@ const SignUpForm = () => {
           />
 
           {/* Password Input */}
-          <label htmlFor="password" className="block text-gray-700 font-semibold mb-1">
+          <label
+            htmlFor="password"
+            className="block text-gray-700 font-semibold mb-1"
+          >
             Password
           </label>
           <input
@@ -86,7 +97,10 @@ const SignUpForm = () => {
           />
 
           {/* Confirm Password Input */}
-          <label htmlFor="confirmpassword" className="block text-gray-700 font-semibold mb-1">
+          <label
+            htmlFor="confirmpassword"
+            className="block text-gray-700 font-semibold mb-1"
+          >
             Confirm Password
           </label>
           <input
