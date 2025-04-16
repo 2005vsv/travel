@@ -1,0 +1,512 @@
+[
+    {
+      "id": 1,
+      "name": "Ananda in the Himalayas",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.9,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 2,
+      "name": "Six Senses Vana",
+      "img": "https://www.sixsenses.com/content/dam/six-senses/hotels/vana/gallery/vana-gallery-1.jpg",
+      "mood": "peaceful",
+      "price": "₹50,000–₹1,20,000 per night",
+      "location": "Dehradun, Uttarakhand",
+      "discount": "20% off",
+      "rating": 4.8,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 3,
+      "name": "Ananda in the Himalayas #3",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "20% off",
+      "rating": 4.4,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 4,
+      "name": "Ananda in the Himalayas #4",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.9,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 5,
+      "name": "Ananda in the Himalayas #5",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 5.0,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 6,
+      "name": "Ananda in the Himalayas #6",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.5,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 7,
+      "name": "Ananda in the Himalayas #7",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 3.8,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 8,
+      "name": "Ananda in the Himalayas #8",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "10% off",
+      "rating": 3.9,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 9,
+      "name": "Ananda in the Himalayas #9",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 3.6,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 10,
+      "name": "Ananda in the Himalayas #10",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.2,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 11,
+      "name": "Ananda in the Himalayas #11",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.9,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 12,
+      "name": "Ananda in the Himalayas #12",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.6,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 13,
+      "name": "Ananda in the Himalayas #13",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 3.9,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 14,
+      "name": "Ananda in the Himalayas #14",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.8,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 15,
+      "name": "Ananda in the Himalayas #15",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "20% off",
+      "rating": 3.5,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 16,
+      "name": "Amanbagh – Alwar, Rajasthan #16",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplnE91aViByFGUW1Fqxz5ynDpSIPmtiHCdA&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 4.9,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 17,
+      "name": "Aman-i-Khas – Ranthambore, Rajasthan  #17",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyzzm11YEtwVsH3QQD-rnMiWm_4xDRt3SFw&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 5.0,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 18,
+      "name": "ITC Grand Chola – Chennai, Tamil Nadu #18",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWpYvIK6OUakMxxxd3xSnZvXKXlt3RKZacw&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.3,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 19,
+      "name": "ITC Maurya – New Delhi #19",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472132323.jpg?k=42f3d622c5f2fe4d62ce2454f2e1ef99c368d3c2ff3eebe6d966f8304239fe07&o=&hp=1",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "10% off",
+      "rating": 4.7,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 20,
+      "name": "The Lodhi – New Delhi #20",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/201424642.jpg?k=47e52e116e3030ff79b1792f24af0b28e70a7320dac2847e670b337cbd3e3309&o=",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.5,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 21,
+      "name": "The Imperial – New Delhi #21",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/64757864.jpg?k=e41a9370052d7b1eb65b902ac9b2b689f2ec1f8ad20bb76c12bce475bb53992d&o=&hp=1",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "10% off",
+      "rating": 4.6,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 22,
+      "name": "The Roseate – New Delhi #22",
+      "img": "https://content.skyscnr.com/available/1871135261/1871135261_WxH.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 4.3,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 23,
+      "name": "The Leela Bhartiya City – Bengaluru, Karnataka #23",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhOSgg_steFIYX8aWvQDtqn1-xwhNw-_gVA&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.6,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 24,
+      "name": "Four Seasons Hotel Mumbai – Mumbai, Maharashtra #24",
+      "img": "https://hoteliersweb.com/News/wp-content/uploads/2022/09/four-seasons-hotel-mumbai.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.1,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 25,
+      "name": "Fairmont Jaipur – Jaipur, Rajasthan #25",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_aEweeA14Mw-lcvLSTERE556EVucnwYyGnw&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 4.4,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 26,
+      "name": "JW Marriott Jaipur Resort & Spa – Jaipur, Rajasthan #26",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCTsHRbeT5K60Xr2ptjyOPcVkQh-jvVjNRA&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.9,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 27,
+      "name": "Taj Aravali Resort & Spa – Udaipur, Rajasthan #27",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7flG-odwA-E3bFQ8SYvVAchVigbhEYm6Ww&s",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 3.8,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 28,
+      "name": " The Oberoi, Bengaluru #28",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31211348.jpg?k=c469403df80f10e33120c7be42b61d458746716a4e04c62ad4b9afc1c22edc98&o=&hp=1",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.6,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 29,
+      "name": "Evolve Back, Coorg  #29",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/d6/bc/lily-pool-villa.jpg?w=900&h=-1&s=1",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.6,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 30,
+      "name": "Kahani Paradise, Gokarna #30",
+      "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/342950202.jpg?k=3bb6212f891c905db6c2c1bb72c5d726bfa15524edf678bca8e66b9f348d4eb0&o=&hp=1 ",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.8,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    }
+  ]
