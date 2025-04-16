@@ -90,16 +90,6 @@ const LoginForm = () => {
                 Sign Up
               </span>
             </p>
-<<<<<<< HEAD
-=======
-            <p>Are You an admin?</p>
-            <span
-                onClick={() => navigate("/admin")}
-                className="text-blue-600 hover:underline cursor-pointer"
-              >
-                Admin
-              </span>
->>>>>>> 356105025c4f41283cee39fffb106be9aad9194b
           </div>
         </div>
       </div>
