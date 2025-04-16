@@ -6,6 +6,10 @@ export const Navbar = ({ setsearch, search, isDarkMode, toggleDarkMode }) => {
   const [username, setUsername] = useState(null);
   const navigate = useNavigate();
 
+<<<<<<< HEAD
+=======
+  // Set username from localStorage if available
+>>>>>>> 356105025c4f41283cee39fffb106be9aad9194b
   useEffect(() => {
     const storedUser = JSON.parse(localStorage.getItem("user"));
     if (storedUser?.name) {
@@ -13,12 +17,22 @@ export const Navbar = ({ setsearch, search, isDarkMode, toggleDarkMode }) => {
     }
   }, []);
 
+<<<<<<< HEAD
   const handleLogout = () => {
     localStorage.removeItem("token");
     localStorage.removeItem("user");
     setUsername(null);
     navigate("/");
     window.location.reload(); // reload to re-render the navbar properly
+=======
+  // Handle Logout
+  const handleLogout = () => {
+    localStorage.removeItem("token"); // Remove token
+    localStorage.removeItem("user"); // Remove user data
+    setUsername(null); // Clear the username in the state
+    navigate("/"); // Redirect to home page
+    window.location.reload(); // Optional: reload page to re-render the navbar
+>>>>>>> 356105025c4f41283cee39fffb106be9aad9194b
   };
 
   return (
@@ -116,7 +130,11 @@ export const Navbar = ({ setsearch, search, isDarkMode, toggleDarkMode }) => {
               isDarkMode ? "bg-indigo-600" : "bg-blue-400"
             }`}
           >
+<<<<<<< HEAD
             {isDarkMode ? "🌙" : "☀️"}
+=======
+            {isDarkMode ? "🌙" : "☀"}
+>>>>>>> 356105025c4f41283cee39fffb106be9aad9194b
           </button>
         </nav>
       </div>
