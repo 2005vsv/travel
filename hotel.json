@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Ananda in the Himalayas",
     "img": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D",
-    "mood": "peaceful",
+    "mood": "romantic",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Narendra Nagar, Uttarakhand",
     "discount": "15% off",
@@ -15,13 +15,13 @@
     ],
     "type": "eco-lodge",
     "cancellationPolicy": "Free cancellation up to 24 hours before check-in",
-    "description": "Nestled in the Himalayan foothills, Ananda is a luxurious wellness retreat. Indulge in yoga, meditation, and Ayurvedic treatments amidst serene landscapes. Experience holistic rejuvenation with personalized programs and breathtaking views."
+    "description": "Rekindle your love amidst the Himalayan foothills at Ananda. Enjoy luxurious wellness, couples spa treatments, and private yoga sessions with stunning mountain views. A perfect escape for a romantic retreat."
   },
   {
     "id": 2,
     "name": "Six Senses Vana",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxrRCDFd-8nYaHWuojSD_-mWpY-pWnZAFo3w&s",
-    "mood": "peaceful",
+    "mood": "adventurous",
     "price": "₹50,000–₹1,20,000 per night",
     "location": "Dehradun, Uttarakhand",
     "discount": "20% off",
@@ -33,13 +33,13 @@
     ],
     "type": "resort",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Six Senses Vana, located in Dehradun, is a wellness sanctuary offering personalized health programs, yoga, and organic cuisine. Rejuvenate your mind and body with holistic treatments in a tranquil and serene setting."
+    "description": "Embark on a thrilling wellness journey at Six Senses Vana. Experience adventurous outdoor activities, personalized health programs, and exhilarating nature experiences. A perfect spot to explore and revitalize your spirit."
   },
   {
     "id": 3,
     "name": "The Oberoi Rajvilas – Jaipur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvcrzMrcf7mB3gt5aIrSnbCRR4P0tEs7KAzg&s",
-    "mood": "peaceful",
+    "mood": "luxury",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Jaipur, Rajasthan",
     "discount": "20% off",
@@ -51,13 +51,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Experience royal luxury at The Oberoi Rajvilas, Jaipur. Set amidst lush gardens, this elegant resort offers opulent accommodations, exquisite dining, and rejuvenating spa services. Immerse yourself in the rich heritage of Rajasthan."
+    "description": "Indulge in the opulent world of The Oberoi Rajvilas, Jaipur. Luxuriate in elegant accommodations, savor exquisite dining, and unwind with rejuvenating spa services. Immerse yourself in a regal experience that celebrates luxury and grandeur."
   },
   {
     "id": 4,
     "name": "Six Senses Fort Barwara – Rajasthan",
     "img": "https://lh4.googleusercontent.com/M4mEqYwkTmf9izynQPe-5Dz3R9BEq8hNMjLeepjQcwruYzHviDISswSzKunNx0D082ocLrqwdTYhIJsQcdOaiPfiQsqqMzY09_1t9IenPDm2GY6lgzvr6O4Rboq_fXbOkTAoVLcCP1wKQCzqSVZFA1thaapopykueXKI-DRnENsmjLOs0TMrE8RRF10vNQ",
-    "mood": "peaceful",
+    "mood": "heritage",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Sawai Madhopur, Rajasthan",
     "discount": "30% off",
@@ -69,13 +69,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Discover regal charm at Six Senses Fort Barwara, a meticulously restored 14th-century fort in Rajasthan. Enjoy panoramic views, luxurious accommodations, and holistic wellness experiences in a historic setting."
+    "description": "Step back in time and embrace the splendor of Six Senses Fort Barwara. Relive history in meticulously restored 14th-century fort, enjoy panoramic views, and holistic wellness amidst regal surroundings."
   },
   {
     "id": 5,
     "name": "Taj Exotica Resort & Spa – Goa",
     "img": "https://assets.serenity.co.uk/43000-43999/43334/996x492.jpg",
-    "mood": "peaceful",
+    "mood": "tropical",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Benaulim, Goa",
     "discount": "30% off",
@@ -87,13 +87,13 @@
     ],
     "type": "heritage",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Escape to Taj Exotica Resort & Spa in Goa, an elegant beachfront retreat. Indulge in luxurious accommodations, world-class dining, and rejuvenating spa treatments. Experience the perfect blend of relaxation and Goan hospitality."
+    "description": "Escape to the sun-kissed shores of Taj Exotica Resort & Spa in Goa. Experience tropical paradise with luxurious accommodations, world-class dining, and rejuvenating spa treatments surrounded by palm-fringed beaches."
   },
   {
     "id": 6,
     "name": "The Oberoi Amarvilas – Agra, Uttar Pradesh",
     "img": "https://images.trvl-media.com/lodging/1000000/560000/551400/551355/ccd50b40.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
-    "mood": "peaceful",
+    "mood": "historical",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Agra, Uttar Pradesh",
     "discount": "30% off",
@@ -105,13 +105,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Non-refundable",
-    "description": "Experience unparalleled luxury at The Oberoi Amarvilas, offering breathtaking views of the Taj Mahal. Enjoy opulent accommodations, fine dining, and impeccable service in a setting that celebrates Mughal splendor."
+    "description": "Relive history at The Oberoi Amarvilas, offering breathtaking views of the iconic Taj Mahal. Immerse yourself in opulent accommodations, fine dining, and impeccable service in a setting that celebrates Mughal splendor."
   },
   {
     "id": 7,
     "name": "The Oberoi Udaivilas – Udaipur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVbQ_1LC2SDTiaQ-YLjrd0OWuAG9XPGYTEw&s",
-    "mood": "peaceful",
+    "mood": "serene",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Udaipur, Rajasthan",
     "discount": "15% off",
@@ -123,13 +123,13 @@
     ],
     "type": "resort",
     "cancellationPolicy": "Free cancellation up to 24 hours before check-in",
-    "description": "Set on the banks of Lake Pichola, The Oberoi Udaivilas offers mesmerizing views and unparalleled luxury. Experience the rich cultural heritage of Udaipur with exquisite dining and opulent accommodations."
+    "description": "Find serenity at The Oberoi Udaivilas, set on the banks of Lake Pichola. Experience tranquility with breathtaking views, exquisite dining, and opulent accommodations that celebrate the rich cultural heritage of Udaipur."
   },
   {
     "id": 8,
     "name": "The Oberoi Vanyavilas Wildlife Resort – Ranthambore, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7F4wzmHrIoULCFu143MtS6InttMbJ2_q39w&s",
-    "mood": "peaceful",
+    "mood": "thrilling",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Ranthambore, Rajasthan",
     "discount": "10% off",
@@ -141,13 +141,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Experience the thrill of the wild at The Oberoi Vanyavilas, Ranthambore. Luxurious tents, personalized service, and thrilling wildlife safaris make for an unforgettable adventure in the heart of tiger country."
+    "description": "Embark on a thrilling wildlife adventure at The Oberoi Vanyavilas, Ranthambore. Luxurious tents, personalized service, and unforgettable wildlife safaris make this resort the heart of tiger country. Feel the excitement!"
   },
   {
     "id": 9,
     "name": "Umaid Bhawan Palace – Jodhpur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA_d47p7YDyQYCA-VEfcHM8myw6efIfnAeuA&s",
-    "mood": "peaceful",
+    "mood": "regal",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Jodhpur, Rajasthan",
     "discount": "25% off",
@@ -159,13 +159,13 @@
     ],
     "type": "boutique",
     "cancellationPolicy": "Free cancellation up to 24 hours before check-in",
-    "description": "Live like royalty at Umaid Bhawan Palace, Jodhpur, one of the world’s largest private residences. This heritage hotel features stunning architecture, lush gardens, and unparalleled luxury."
+    "description": "Live like royalty at Umaid Bhawan Palace, Jodhpur, one of the world’s largest private residences. Experience the regal charm, grand architecture, and unparalleled luxury of this unique heritage hotel."
   },
   {
     "id": 10,
     "name": "Taj Mahal Palace – Mumbai, Maharashtra",
     "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/62874136.jpg?k=e851ec309d11e2fa185e30cffac8dc799f67a01a464e2a8c4f404a16c7256107&o=&hp=1",
-    "mood": "peaceful",
+    "mood": "iconic",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Mumbai, Maharashtra",
     "discount": "15% off",
@@ -177,13 +177,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Experience iconic luxury at the Taj Mahal Palace, Mumbai, a historic landmark. Enjoy unparalleled service, exquisite dining, and stunning views of the Arabian Sea in this legendary hotel."
+    "description": "Experience iconic luxury at the legendary Taj Mahal Palace, Mumbai. Enjoy unparalleled service, exquisite dining, and breathtaking views of the Arabian Sea in this historic landmark hotel. Make memories that last a lifetime."
   },
   {
     "id": 11,
     "name": "The Leela Palace Udaipur – Udaipur, Rajasthan",
     "img": "https://img.oyster.com/production/Asia/India/Rajasthan/Udaipur/The%20Leela%20Palace%20Udaipur/Feature%20Image/india_hotels_the_leela_palace_udaipur_feature_image_f0a95b2600.webp",
-    "mood": "peaceful",
+    "mood": "majestic",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Udaipur, Rajasthan",
     "discount": "30% off",
@@ -195,13 +195,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Nestled on the banks of Lake Pichola, The Leela Palace Udaipur offers majestic views and opulent comfort. Experience the essence of Rajasthan with lavish accommodations, exquisite dining, and unparalleled service."
+    "description": "Immerse yourself in a majestic experience at The Leela Palace Udaipur, nestled on the serene banks of Lake Pichola. Enjoy lavish accommodations, exquisite dining, and unmatched services that reflect Rajasthan's rich heritage."
   },
   {
     "id": 12,
     "name": "The Leela Palace New Delhi – New Delhi",
     "img": "https://img.etimg.com/photo/msid-101946364,imgsize-73068/TheLeelaPalace%2CNewDelhi.jpg",
-    "mood": "peaceful",
+    "mood": "sophisticated",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "New Delhi",
     "discount": "30% off",
@@ -213,13 +213,13 @@
     ],
     "type": "boutique",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Experience urban luxury at The Leela Palace New Delhi, a sophisticated retreat in the heart of the capital. Enjoy opulent accommodations, world-class dining, and impeccable service in a regal setting."
+    "description": "Discover urban sophistication at The Leela Palace New Delhi. This elegant retreat offers world-class dining, opulent accommodations, and impeccable service, set in the heart of India's vibrant capital city."
   },
   {
     "id": 13,
     "name": "The Leela Palace Chennai – Chennai, Tamil Nadu",
     "img": "https://images.trvl-media.com/lodging/5000000/4800000/4791400/4791355/830bba95.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
-    "mood": "peaceful",
+    "mood": "coastal",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Chennai, Tamil Nadu",
     "discount": "25% off",
@@ -231,13 +231,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Non-refundable",
-    "description": "Indulge in coastal elegance at The Leela Palace Chennai, offering luxurious accommodations and stunning sea views. Experience warm hospitality, fine dining, and rejuvenating spa treatments."
+    "description": "Experience coastal elegance at The Leela Palace Chennai, where luxury meets the sea. Enjoy stunning ocean views, exceptional dining, and warm hospitality in this elegant beachfront retreat."
   },
   {
     "id": 14,
     "name": "Wildflower Hall, An Oberoi Resort – Shimla, Himachal Pradesh",
     "img": "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/wildflower-hall-shimla-in-the-himalayas/spa/spa1039x561/img_5545.jpg?w=1039&hash=9931d9c175572fc701d6086088d55cbb",
-    "mood": "peaceful",
+    "mood": "mountain",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Shimla, Himachal Pradesh",
     "discount": "30% off",
@@ -249,13 +249,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Escape to the Himalayas at Wildflower Hall, Shimla, an Oberoi Resort. Experience colonial charm, breathtaking mountain views, and rejuvenating spa therapies amidst serene alpine forests."
+    "description": "Escape to the majestic Himalayas at Wildflower Hall, Shimla. Experience colonial charm, breathtaking mountain vistas, and rejuvenating spa treatments amidst serene alpine forests."
   },
   {
     "id": 15,
     "name": "Taj Lake Palace – Udaipur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVDJCmOQtQyUR7jjCKhCED1b1ZvO8tjczzg&s",
-    "mood": "peaceful",
+    "mood": "whimsical",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Udaipur, Rajasthan",
     "discount": "20% off",
@@ -267,13 +267,13 @@
     ],
     "type": "resort",
     "cancellationPolicy": "Non-refundable",
-    "description": "Float on a dream at Taj Lake Palace, Udaipur, an exquisite hotel set on Lake Pichola. Experience royal luxury, fine dining, and unparalleled service in a setting that is both romantic and serene."
+    "description": "Float into a whimsical world at Taj Lake Palace, an exquisite hotel that appears to float on Lake Pichola. Experience royal luxury, fine dining, and unparalleled services in this dreamy and tranquil setting."
   },
   {
     "id": 16,
     "name": "Amanbagh – Alwar, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSplnE91aViByFGUW1Fqxz5ynDpSIPmtiHCdA&s",
-    "mood": "peaceful",
+    "mood": "tranquil",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Alwar, Rajasthan",
     "discount": "25% off",
@@ -285,13 +285,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Find tranquility at Amanbagh, Alwar, a serene oasis in the Aravalli Hills. Enjoy luxurious accommodations, holistic wellness treatments, and immersive cultural experiences in a lush and secluded setting."
+    "description": "Discover a tranquil escape at Amanbagh, nestled in Alwar's serene Aravalli Hills. Enjoy luxurious accommodations, holistic wellness treatments, and immersive cultural experiences, creating an unforgettable retreat."
   },
   {
     "id": 17,
     "name": "Aman-i-Khas – Ranthambore, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVyzzm11YEtwVsH3QQD-rnMiWm_4xDRt3SFw&s",
-    "mood": "peaceful",
+    "mood": "wild",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Ranthambore, Rajasthan",
     "discount": "30% off",
@@ -303,13 +303,13 @@
     ],
     "type": "heritage",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Experience luxury in the wilderness at Aman-i-Khas, Ranthambore. Luxurious tents, personalized service, and thrilling wildlife safaris make for an unforgettable adventure in the heart of tiger country."
+    "description": "Unleash your inner adventurer at Aman-i-Khas, Ranthambore, with luxurious tents set in the heart of tiger country. Enjoy thrilling wildlife safaris, personalized service, and an unforgettable wilderness experience."
   },
   {
     "id": 18,
     "name": "ITC Grand Chola – Chennai, Tamil Nadu",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWpYvIK6OUakMxxxd3xSnZvXKXlt3RKZacw&s",
-    "mood": "peaceful",
+    "mood": "grand",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Chennai, Tamil Nadu",
     "discount": "15% off",
@@ -321,13 +321,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Free cancellation up to 24 hours before check-in",
-    "description": "Experience grandeur and elegance at ITC Grand Chola, Chennai, a tribute to Chola architecture. Enjoy luxurious accommodations, fine dining, and impeccable service in a regal setting."
+    "description": "Experience the grand splendor of ITC Grand Chola, a tribute to Chola architecture in Chennai. Indulge in luxurious accommodations, fine dining, and impeccable service within a setting that embodies regal elegance."
   },
   {
     "id": 19,
     "name": "ITC Maurya – New Delhi",
     "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/472132323.jpg?k=42f3d622c5f2fe4d62ce2454f2e1ef99c368d3c2ff3eebe6d966f8304239fe07&o=&hp=1",
-    "mood": "peaceful",
+    "mood": "elegant",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "New Delhi",
     "discount": "10% off",
@@ -339,13 +339,13 @@
     ],
     "type": "boutique",
     "cancellationPolicy": "Non-refundable",
-    "description": "Discover refined luxury at ITC Maurya, New Delhi, known for its exceptional hospitality and exquisite dining experiences. This iconic hotel blends traditional charm with modern amenities."
+    "description": "Discover refined elegance at ITC Maurya, New Delhi. Known for exceptional hospitality and exquisite dining experiences, this iconic hotel blends traditional charm with contemporary amenities, creating a luxurious retreat."
   },
   {
     "id": 20,
     "name": "The Lodhi – New Delhi",
     "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/201424642.jpg?k=47e52e116e3030ff79b1792f24af0b28e70a7320dac2847e670b337cbd3e3309&o=",
-    "mood": "peaceful",
+    "mood": "urban",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "New Delhi",
     "discount": "30% off",
@@ -357,13 +357,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Experience urban oasis at The Lodhi, New Delhi, offering luxurious accommodations, private plunge pools, and personalized service. Enjoy a seamless blend of contemporary design and warm hospitality."
+    "description": "Experience an urban oasis at The Lodhi, New Delhi. Indulge in luxurious accommodations, private plunge pools, and personalized service, enjoying a seamless blend of contemporary design and warm hospitality."
   },
   {
     "id": 21,
     "name": "The Imperial – New Delhi",
     "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/64757864.jpg?k=e41a9370052d7b1eb65b902ac9b2b689f2ec1f8ad20bb76c12bce475bb53992d&o=&hp=1",
-    "mood": "peaceful",
+    "mood": "historic",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "New Delhi",
     "discount": "10% off",
@@ -375,13 +375,13 @@
     ],
     "type": "boutique",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Step back in time at The Imperial, New Delhi, a historic landmark hotel. Experience colonial charm, luxurious accommodations, and impeccable service in a setting that exudes timeless elegance."
+    "description": "Step back in time at The Imperial, a historic landmark in New Delhi. Discover colonial charm, luxurious accommodations, and impeccable service in a setting that exudes timeless elegance and historic grandeur."
   },
   {
     "id": 22,
     "name": "The Roseate – New Delhi",
     "img": "https://content.skyscnr.com/available/1871135261/1871135261_WxH.jpg",
-    "mood": "peaceful",
+    "mood": "artistic",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "New Delhi",
     "discount": "25% off",
@@ -393,13 +393,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Discover modern luxury at The Roseate, New Delhi, nestled amidst lush greenery. Enjoy stylish accommodations, exquisite dining, and serene water features in a tranquil and elegant setting."
+    "description": "Immerse yourself in an artistic retreat at The Roseate, New Delhi. Nestled amidst lush greenery, it features stylish accommodations, exquisite dining, and serene water features, creating a tranquil and elegant setting."
   },
   {
     "id": 23,
     "name": "The Leela Bhartiya City – Bengaluru, Karnataka",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhOSgg_steFIYX8aWvQDtqn1-xwhNw-_gVA&s",
-    "mood": "peaceful",
+    "mood": "modern",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Bengaluru, Karnataka",
     "discount": "30% off",
@@ -411,13 +411,13 @@
     ],
     "type": "resort",
     "cancellationPolicy": "Free cancellation up to 24 hours before check-in",
-    "description": "Experience urban luxury at The Leela Bhartiya City, Bengaluru, offering spacious accommodations and world-class amenities. Enjoy impeccable service and a seamless blend of luxury and comfort."
+    "description": "Experience modern luxury at The Leela Bhartiya City in Bengaluru. Enjoy spacious accommodations, contemporary design, and world-class amenities, blending impeccable service with ultimate comfort and style."
   },
   {
     "id": 24,
     "name": "Four Seasons Hotel Mumbai – Mumbai, Maharashtra",
     "img": "https://hoteliersweb.com/News/wp-content/uploads/2022/09/four-seasons-hotel-mumbai.jpg",
-    "mood": "peaceful",
+    "mood": "cosmopolitan",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Mumbai, Maharashtra",
     "discount": "30% off",
@@ -429,13 +429,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Discover contemporary elegance at Four Seasons Hotel Mumbai, offering stylish accommodations and stunning city views. Enjoy exceptional dining experiences and impeccable service in this urban oasis."
+    "description": "Discover cosmopolitan elegance at the Four Seasons Hotel Mumbai. Offering stylish accommodations and stunning city views, it provides exceptional dining experiences and impeccable service, making your stay truly memorable."
   },
   {
     "id": 25,
     "name": "Fairmont Jaipur – Jaipur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_aEweeA14Mw-lcvLSTERE556EVucnwYyGnw&s",
-    "mood": "peaceful",
+    "mood": "royal",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Jaipur, Rajasthan",
     "discount": "25% off",
@@ -447,13 +447,13 @@
     ],
     "type": "heritage",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Immerse yourself in royal opulence at Fairmont Jaipur, a lavish palace hotel. Experience Rajput hospitality, grand architecture, and exquisite dining in a setting that celebrates Rajasthan’s rich heritage."
+    "description": "Experience royal opulence at Fairmont Jaipur, a lavish palace hotel that captures the essence of Rajput hospitality. Enjoy grand architecture, exquisite dining, and unparalleled services, all celebrating Rajasthan’s rich heritage."
   },
   {
     "id": 26,
     "name": "JW Marriott Jaipur Resort & Spa – Jaipur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCTsHRbeT5K60Xr2ptjyOPcVkQh-jvVjNRA&s",
-    "mood": "peaceful",
+    "mood": "resort",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Jaipur, Rajasthan",
     "discount": "30% off",
@@ -465,13 +465,13 @@
     ],
     "type": "heritage",
     "cancellationPolicy": "Free cancellation up to 72 hours before check-in",
-    "description": "Relax in luxury at JW Marriott Jaipur Resort & Spa, blending modern comfort with traditional charm. Enjoy spacious accommodations, world-class amenities, and rejuvenating spa treatments."
+    "description": "Relax and rejuvenate at JW Marriott Jaipur Resort & Spa, blending modern comfort with traditional charm. Enjoy spacious accommodations, world-class amenities, and rejuvenating spa treatments in this relaxing haven."
   },
   {
     "id": 27,
     "name": "Taj Aravali Resort & Spa – Udaipur, Rajasthan",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV7flG-odwA-E3bFQ8SYvVAchVigbhEYm6Ww&s",
-    "mood": "peaceful",
+    "mood": "scenic",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Udaipur, Rajasthan",
     "discount": "25% off",
@@ -483,13 +483,13 @@
     ],
     "type": "resort",
     "cancellationPolicy": "Non-refundable",
-    "description": "Escape to the serene Taj Aravali Resort & Spa, Udaipur, surrounded by the Aravalli hills. Enjoy luxurious accommodations, rejuvenating spa treatments, and exquisite dining in a picturesque setting."
+    "description": "Escape to the scenic beauty of Taj Aravali Resort & Spa, Udaipur, surrounded by the majestic Aravalli hills. Enjoy luxurious accommodations, rejuvenating spa treatments, and exquisite dining in this picturesque setting."
   },
   {
     "id": 28,
     "name": "The Oberoi, Bengaluru",
     "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/31211348.jpg?k=c469403df80f10e33120c7be42b61d458746716a4e04c62ad4b9afc1c22edc98&o=&hp=1",
-    "mood": "peaceful",
+    "mood": "upscale",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Bengaluru",
     "discount": "30% off",
@@ -501,13 +501,13 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Partial refund up to 48 hours before check-in",
-    "description": "Experience urban elegance at The Oberoi, Bengaluru, offering luxurious accommodations and exceptional service. Enjoy fine dining, rejuvenating spa treatments, and a tranquil oasis in the heart of the city."
+    "description": "Experience upscale elegance at The Oberoi, Bengaluru, with luxurious accommodations and exceptional service. This hotel offers fine dining, rejuvenating spa treatments, and a tranquil oasis in the heart of the city."
   },
   {
     "id": 29,
     "name": "Evolve Back, Coorg",
     "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/d6/bc/lily-pool-villa.jpg?w=900&h=-1&s=1",
-    "mood": "peaceful",
+    "mood": "plantation",
     "price": "₹35,000–₹1,00,000 per night",
     "location": "Coorg",
     "discount": "30% off",
@@ -519,33 +519,24 @@
     ],
     "type": "luxury",
     "cancellationPolicy": "Non-refundable",
-    "description": "Immerse yourself in nature at Evolve Back, Coorg, a luxurious resort set amidst coffee plantations. Enjoy colonial-style bungalows, breathtaking views, and eco-friendly hospitality, for a serene escape."
+    "description": "Immerse yourself in the lush coffee plantations at Evolve Back, Coorg. Indulge in colonial-style bungalows, breathtaking views, and eco-friendly hospitality, creating a luxurious and relaxing retreat in nature."
   },
-{
-"id": 30,
-"name": "The Tamara Kodai ",
-"img": "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/01/The-Tamara-Kodai1.jpg",
-"mood": "peaceful",
-"price": "₹20,000-₹30,000",
-"location": "Kodaikanal",
-"discount": "15% off",
-"rating": "4.2",
-"amenities": ["Swimming pool", "Parking", "Restaurant"],
-"type": "Luxury",
-"cancellationPolicy": "Non-refundable",
-"description": "The Tamara Kodai offers a luxurious retreat in the hills of Kodaikanal. Experience elegant rooms, scenic views, and exceptional hospitality surrounded by nature's tranquility. Enjoy personalized services and a serene environment."
-},
-{
-"id": 31,
-"name": "Moksha Himalaya Spa Resort",
-"img": "https://www.mokshahimalaya.com/img/mob_banner.jpg",
-"mood": "peaceful",
-"price": "₹15,000-₹25,000",
-"location": "Parwanoo",
-"discount": "20% off",
-"rating": "4.5",
-"amenities": ["Spa", "Gym", "Restaurant"],
-"type": "Luxury Spa",
-"cancellationPolicy": "Free Cancellation",
-"description": "Moksha Himalaya Spa Resort is a tranquil haven nestled in the Shivalik ranges. Rejuvenate with Ayurvedic treatments, yoga, and meditation amidst serene landscapes. Experience a holistic wellness journey with breathtaking views."
-}]
+  {
+    "id": 30,
+    "name": "The Tamara Kodai ",
+    "img": "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/01/The-Tamara-Kodai1.jpg",
+    "mood": "nature",
+    "price": "₹20,000-₹30,000",
+    "location": "Kodaikanal",
+    "discount": "15% off",
+    "rating": "4.2",
+    "amenities": [
+      "Swimming pool",
+      "Parking",
+      "Restaurant"
+    ],
+    "type": "Luxury",
+    "cancellationPolicy": "Non-refundable",
+    "description": "Escape to the tranquil hills at The Tamara Kodai. Offering luxurious rooms and scenic views, this destination provides a serene escape surrounded by the beauty and tranquility of nature."
+  }]
+  

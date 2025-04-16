@@ -3,12 +3,13 @@ import { hotelApi } from "../../api/hotelsApi";
 import { HotelCard } from "../../components/HotelCard";
 import { Navbar } from "../../components/Navbar";
 import { Footer } from "../../components/Footer";
+import { Chatbot } from "../../components/chatbot";
 
 export const HotelPage = () => {
   const [hotels, setHotels] = useState([]);
   const [search, setsearch] = useState("");
   const [isDarkMode, setIsDarkMode] = useState(false);
-
+  
 
   useEffect(() => {
     (async () => {
@@ -21,12 +22,10 @@ export const HotelPage = () => {
     })();
   }, []);
 
-
-    const toggleDarkMode = () => {
-        setIsDarkMode((prev) => !prev);
-        document.body.classList.toggle("dark");
-    };
-
+  const toggleDarkMode = () => {
+    setIsDarkMode((prev) => !prev);
+    document.body.classList.toggle("dark");
+  };
 
   return (
     <div
@@ -41,6 +40,11 @@ export const HotelPage = () => {
         isDarkMode={isDarkMode}
         toggleDarkMode={toggleDarkMode}
       />
+     
+
+      {/* Chatbot floating button + chat window */}
+      <Chatbot />
+      
 
       {/* Main content wrapper with padding to avoid navbar overlap */}
       <main

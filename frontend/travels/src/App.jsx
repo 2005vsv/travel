@@ -8,6 +8,8 @@ import { Route,Routes } from 'react-router-dom'
 import { About } from './pages/About'
 import { Contact } from './pages/Contact'
 import { HotelDescripion } from './components/HotelDescription'
+import HotelBookingForm from './components/HotelBooking'
+import { ConfirmBooking } from './pages/ConfirmBooking'
 function App() {
   
 
@@ -18,6 +20,8 @@ function App() {
       <Route path='/about' element={<About/>} />
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/book/:id' element={<HotelDescripion/>}/>
+      <Route path='/hotelbookingform' element={<HotelBookingForm/>}/>
+      <Route path='/confirmBooking' element={<ConfirmBooking/>}/>
 
     </Routes>
 
