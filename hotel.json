@@ -1,0 +1,512 @@
+[
+    {
+      "id": 1,
+      "name": "Ananda in the Himalayas",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.9,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 2,
+      "name": "Six Senses Vana",
+      "img": "https://www.sixsenses.com/content/dam/six-senses/hotels/vana/gallery/vana-gallery-1.jpg",
+      "mood": "peaceful",
+      "price": "₹50,000–₹1,20,000 per night",
+      "location": "Dehradun, Uttarakhand",
+      "discount": "20% off",
+      "rating": 4.8,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 3,
+      "name": "Ananda in the Himalayas #3",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "20% off",
+      "rating": 4.4,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 4,
+      "name": "Ananda in the Himalayas #4",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.9,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 5,
+      "name": "Ananda in the Himalayas #5",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 5.0,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 6,
+      "name": "Ananda in the Himalayas #6",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.5,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 7,
+      "name": "Ananda in the Himalayas #7",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 3.8,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 8,
+      "name": "Ananda in the Himalayas #8",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "10% off",
+      "rating": 3.9,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 9,
+      "name": "Ananda in the Himalayas #9",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 3.6,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 10,
+      "name": "Ananda in the Himalayas #10",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.2,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 11,
+      "name": "Ananda in the Himalayas #11",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.9,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 12,
+      "name": "Ananda in the Himalayas #12",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.6,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 13,
+      "name": "Ananda in the Himalayas #13",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 3.9,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 14,
+      "name": "Ananda in the Himalayas #14",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.8,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 15,
+      "name": "Ananda in the Himalayas #15",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "20% off",
+      "rating": 3.5,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 16,
+      "name": "Ananda in the Himalayas #16",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 4.9,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 17,
+      "name": "Ananda in the Himalayas #17",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 5.0,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 18,
+      "name": "Ananda in the Himalayas #18",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.3,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 19,
+      "name": "Ananda in the Himalayas #19",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "10% off",
+      "rating": 4.7,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 20,
+      "name": "Ananda in the Himalayas #20",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.5,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 21,
+      "name": "Ananda in the Himalayas #21",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "10% off",
+      "rating": 4.6,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 22,
+      "name": "Ananda in the Himalayas #22",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 4.3,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "eco-lodge",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 23,
+      "name": "Ananda in the Himalayas #23",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.6,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+    },
+    {
+      "id": 24,
+      "name": "Ananda in the Himalayas #24",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.1,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 25,
+      "name": "Ananda in the Himalayas #25",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 4.4,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "boutique",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 26,
+      "name": "Ananda in the Himalayas #26",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 3.9,
+      "amenities": [
+        "restaurant",
+        "wifi",
+        "kids play area"
+      ],
+      "type": "heritage",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    },
+    {
+      "id": 27,
+      "name": "Ananda in the Himalayas #27",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "25% off",
+      "rating": 3.8,
+      "amenities": [
+        "pet-friendly",
+        "parking",
+        "pool"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 28,
+      "name": "Ananda in the Himalayas #28",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.6,
+      "amenities": [
+        "wifi",
+        "spa",
+        "pool"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Partial refund up to 48 hours before check-in"
+    },
+    {
+      "id": 29,
+      "name": "Ananda in the Himalayas #29",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "30% off",
+      "rating": 4.6,
+      "amenities": [
+        "spa",
+        "parking",
+        "bar"
+      ],
+      "type": "luxury",
+      "cancellationPolicy": "Non-refundable"
+    },
+    {
+      "id": 30,
+      "name": "Ananda in the Himalayas #30",
+      "img": "https://www.anandaspa.com/wp-content/uploads/2020/10/Ananda-in-the-Himalayas-Exterior.jpg",
+      "mood": "peaceful",
+      "price": "₹35,000–₹1,00,000 per night",
+      "location": "Narendra Nagar, Uttarakhand",
+      "discount": "15% off",
+      "rating": 4.8,
+      "amenities": [
+        "gym",
+        "wifi",
+        "bar"
+      ],
+      "type": "resort",
+      "cancellationPolicy": "Free cancellation up to 72 hours before check-in"
+    }
+  ]
